@@ -1,0 +1,6 @@
+c:\users\asia\documents\visual studio 2015\Projects\WorkbookC\3b\bin\Debug\3b.exe.config
+c:\users\asia\documents\visual studio 2015\Projects\WorkbookC\3b\bin\Debug\3b.exe
+c:\users\asia\documents\visual studio 2015\Projects\WorkbookC\3b\bin\Debug\3b.pdb
+c:\users\asia\documents\visual studio 2015\Projects\WorkbookC\3b\obj\Debug\3b.exe
+c:\users\asia\documents\visual studio 2015\Projects\WorkbookC\3b\obj\Debug\3b.pdb
+C:\Users\Asia\documents\visual studio 2015\Projects\WorkbookC\3b\obj\Debug\3b.csprojResolveAssemblyReference.cache

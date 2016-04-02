@@ -1,0 +1,6 @@
+c:\users\asia\documents\visual studio 2015\Projects\WorkbookC\WorkbookC\bin\Debug\WorkbookC.exe.config
+c:\users\asia\documents\visual studio 2015\Projects\WorkbookC\WorkbookC\bin\Debug\WorkbookC.exe
+c:\users\asia\documents\visual studio 2015\Projects\WorkbookC\WorkbookC\bin\Debug\WorkbookC.pdb
+c:\users\asia\documents\visual studio 2015\Projects\WorkbookC\WorkbookC\obj\Debug\WorkbookC.csprojResolveAssemblyReference.cache
+c:\users\asia\documents\visual studio 2015\Projects\WorkbookC\WorkbookC\obj\Debug\WorkbookC.exe
+c:\users\asia\documents\visual studio 2015\Projects\WorkbookC\WorkbookC\obj\Debug\WorkbookC.pdb
